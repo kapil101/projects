@@ -1,0 +1,8 @@
+					Automatic Toll-plaza using RFID and 8051 microcontroller.
+
+Key terms:	P89V51RD2, RFID,I2C,RTC,EEPROM,16*2-LCD,MOTOR.
+Description:	By using microcontroller P89V51RD2 and RFID implemented 
+		the  Automatic toll-plaza system, where 16*2 LCD display for 
+		displaying time and user name. whenever user scanned it will cut
+	 	the  balance and gate is opened.
+

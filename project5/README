@@ -1,0 +1,6 @@
+						Frame Transmission from Client to Server.
+
+Description:		Client-Server  programming in c for frame transmission. Where
+			Client will send  certain frames to the server and server will take
+  			those frames and does some action on it. client and server has been      
+                        implemented in Threads.
