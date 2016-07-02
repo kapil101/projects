@@ -1,0 +1,7 @@
+					         
+  						Single Stage Preprocessor
+Description:Single stage preprocessor which wil do:
+1.header file inclusion
+2.comments removal
+3.Macro replacement
+4.conditional compilation
