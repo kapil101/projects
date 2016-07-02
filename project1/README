@@ -1,0 +1,10 @@
+						Electronic Menu card-ordering System
+
+
+keyterms: 	Avr atmega-32,GLCD,touch-screen,Zigbee
+
+Description:
+		Here i implemented advanced menu display unit. Where GLCD will act as a menu card
+		which displays all the items available in the restaurants. Touch screen will act as
+		input device to take input from customer and this menu will be send via Zigbee to kitchen
+		unit.
